@@ -16,6 +16,11 @@
   letter-spacing: 1px;
 }
 
+.navbar ul a.active {
+  color: rgb(42, 42, 245);
+  font-weight: 700;
+}
+
 .navbar h1 {
   color: #fff;
 }

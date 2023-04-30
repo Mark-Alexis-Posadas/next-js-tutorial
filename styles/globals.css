@@ -26,3 +26,15 @@ main h1 {
   margin: auto;
   width: 100%;
 }
+
+.not-found {
+  text-align: center;
+}
+
+.not-found p {
+  margin-top: 20px;
+}
+.not-found a {
+  color: rgb(42, 42, 245);
+  text-decoration: underline;
+}
