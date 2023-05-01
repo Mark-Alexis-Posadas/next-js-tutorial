@@ -1,0 +1,11 @@
+.items {
+  background-color: #b6a5a5;
+  padding: 20px;
+  border-radius: 5px;
+  margin-bottom: 20px;
+  display: block;
+}
+
+.items:hover {
+  border-left: 3px solid rgb(0, 0, 143);
+}
